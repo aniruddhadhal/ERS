@@ -4,8 +4,8 @@ Employee review system webapp is an online platform designed to assist companies
 ### Problem Statement :
 Create an application that allows employees to submit feedback toward each other’s performance.
 ------------------------------------------------------------------------------------------------
-Technology Used:
-Node Js
-Java Script
-MongoDB
-EJS
+### Technology Used:
+1.Node Js
+2. Java Script
+3. MongoDB
+4. EJS
